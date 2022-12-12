@@ -10,8 +10,6 @@ La capa de Provisioner no da errores y genera bien los archivos
 
 La capa de streaming parece que funciona bien, se conecta y genera los datos pero como te he dicho antes se queda en bucle inf como tengo puesto pero lo he dejado 30 min y no me genera todos los datos ##
 
-Creo que necesito mas tiempo pero podria sacarlo, me ha gustado el tema de los sensores y la idea es comoda y facil, pero creo que tengo que realizar mas codigo
-
 *** El proyecto lo he guardado comprimido en .zip con el nombre de practica *** 
 
 Se supone que alli esta todo lo necesario
