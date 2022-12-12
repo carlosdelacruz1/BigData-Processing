@@ -8,7 +8,7 @@ Configure Kafka, y me enviaba mensajes y todo salia bien. Sin embargo no almacen
 
 La capa de Provisioner no da errores y genera bien los archivos
 
-La capa de streaming parece que funciona bien, se conecta y genera los datos pero como te he dicho antes se queda en bucle inf como tengo puesto pero lo he dejado 30 min y no me genera todos los datos ##
+La capa de streaming parece que funciona bien, se conecta y genera los datos pero como te he dicho antes se queda en bucle inf como tengo puesto pero lo he dejado 30 min y no me genera todos los datos 
 
 *** El proyecto lo he guardado comprimido en .zip con el nombre de practica *** 
 
