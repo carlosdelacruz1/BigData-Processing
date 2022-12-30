@@ -1,5 +1,3 @@
-                                                                    Ejemplo de BigData Processing
-
 La idea de este proyecto consta de 3 capas, la de Batch, la de provisioner y la de Sreaming. Cada una de ellas realizara una funcion como generacion de datos en streaming, almancenamiento en la nube y asi como lectura y escritura de datos.
 
 La de Batch no la he conseguido hacer bien porque los inputs de parquet no los conseguia realizar mediante la de Streaming ##
